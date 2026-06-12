@@ -41,7 +41,7 @@ npm run dev
 
 ## Author
 
-Muthu Kannan
+MuthuKannan P
 
 GitHub: https://github.com/Muthukannan04
 
